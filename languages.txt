@@ -1,0 +1,122 @@
+halide https://halide-lang.org/ image processing
+avail http://www.availlang.org/ articulate programming
+luna https://www.luna-lang.org/ visual programming
+red https://www.red-lang.org/ full stack computing
+eve http://witheve.com/ database-language hybrid
+wolfram https://reference.wolfram.com/language/ Multi-specific, automation (proprietary)
+elm https://elm-lang.org/ functional
+racket https://racket-lang.org/ programming language oriented programming language
+terra http://terralang.org/ Low-level w/ lua
+black http://pllab.is.ocha.ac.jp/~asai/Black/ reflective language ???
+bennugd http://www.bennugd.org/ game oriented
+pony https://www.ponylang.io/ reference capabilities
+wyvern https://wyvernlang.github.io/ architectural control, coordination
+jif https://www.cs.cornell.edu/jif/ java flow control
+Io https://iolanguage.org/about.html simplicity
+metal http://www.meta-language.net/ meta-programming language
+nim https://nim-lang.org/ location
+lobster http://strlen.com/lobster/ game methodology
+eiffel https://www.eiffel.org/welcome object oriented
+pharo https://pharo.org/ inmersive programming
+katai struct https://kaitai.io/ binary structures
+rinci https://metacpan.org/pod/Rinci Language-neutral metadata
+Pixilang http://www.warmplace.ru/soft/pixilang/ pixel oriented
+eff https://www.eff-lang.org/ algebraic effect handlers
+flix https://flix.dev/#/ opinionated
+supernova https://sourceforge.net/projects/supernova/ human readable
+faust https://faust.grame.fr/ sound processing
+DAS-UI https://das-ui.firebaseapp.com/ Keyboard oriented
+fuze4 https://www.fuze.co.uk/nintendo-switch.html Game-oriented (nintendo)
+monkey http://monkeycoder.co.nz/ Game-oriented
+hazel https://hazel.org/ type hole oriented
+oforth https://www.oforth.com/ object oriented forth
+Xod.io https://xod.io/ microcontroller visual pl
+newspeak https://newspeaklanguage.org/ object oriented
+pure https://agraef.github.io/pure-lang/ functional
+stratego https://github.com/metaborg/strategoxt rewriting strategies
+autohotkey https://www.autohotkey.com/ windows gui scripting automation
+txl https://www.txl.ca/txl-abouttxl.html functional / rule-based language
+Jolie https://www.jolie-lang.org/ microservices
+turbo rascal http://www.lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/ 8-bit games
+building
+p4 https://p4.org/ network oriented
+loci https://loci-lang.org/ improved c
+squirrel http://squirrel-lang.org/ lightweight scripting
+quorum https://quorumlanguage.com/evidence.html Evidence-oriented
+pi http://www.pi-programming.org/What.html pattern oriented
+ciao https://ciao-lang.org/index.html Prolog-based
+lush http://lush.sourceforge.net/ large scale numerical
+Emojitocode https://www.emojicode.org/ learning with emojis
+sophia https://github.com/aeternity/protocol/blob/master/contracts/sophia.md#language-features
+contract
+obsidian http://obsidian-lang.com/ Blockchain oriented
+chuck http://chuck.cs.princeton.edu/ sound processing
+Solidity https://solidity.readthedocs.io/en/v0.5.9/ blockchain smart contracts
+Pyro https://pyro.ai/ probabilistic
+tcl https://www.tcl.tk/ string oriented
+Yanaconda http://www.yasara.org/yanaconda.htm macro minimun keystrokes
+Ui-lang http://uilang.com/ minimal gui
+vidlang https://docs.racket-lang.org/video@video-v0-2/index.html video editing
+elena http://elenalang.sourceforge.net/ polymorphic code
+helena http://helena-lang.org/ browsing automation
+J https://www.jsoftware.com/#/ maths and arrays
+Blue Cat's https://www.bluecataudio.com//Vault/Skins/KUIML/ User Interface Programming Language
+KUIML
+futhark https://futhark-lang.org/ parallel
+x-10 http://x10-lang.org/ parallel
+dragon http://dragon.suasive.in/ general purpose
+v https://vlang.io/ general purpose
+bosque https://github.com/Microsoft/BosqueLanguage general purpose
+frink https://frinklang.org/ unit measures calculations
+hoon https://urbit.org/docs/learn/hoon/ Subject-oriented
+eff https://www.eff-lang.org/ algebraic effect handlers
+cycript http://www.cycript.org/ reverse ios/mac
+gen https://probcomp.github.io/Gen/ probabilistic programming, A.I.
+Reo http://reo.project.cwi.nl/v2/ coordination (dsl)
+storyscript https://storyscript.io/blog/why-storyscript/ backend
+dark https://darklang.com/language backend
+tamgu https://github.com/naver/tamgu functional
+pixel++ https://bmao.tech/PixelPlusPlus/ image oriented
+sketch n sketch https://ravichugh.github.io/sketch-n-sketch/ hybrid drawing between coding and
+manipulation
+rosie pattern language https://rosie-lang.org/ beyond regex
+Ur-web https://github.com/urweb/urweb domain-specific functional PL for web apps
+unison https://www.unisonweb.org/ distributed elastic programming
+dex https://github.com/google-research/dex-lang array processing
+Regent http://regent-lang.org/ implicit dataflow parallelism
+DAML https://daml.com/ decentralized applications
+Circle https://www.circle-lang.org/ data-driven imperative metaprogramming
+Neverlang https://cazzola.di.unimi.it/neverlang2.html language creation
+XL https://github.com/c3d/xl extensible
+Mun https://mun-lang.org/ embeddable scripting language
+Lily https://www.litylang.org/ blockchain smart contracts
+Icon https://www2.cs.arizona.edu/icon/ goal-directed evaluation
+PWCT http://doublesvsoop.sourceforge.net/ programming without coding
+Ring http://ring-lang.sourceforge.net/ general-purpose
+Ecstasy https://github.com/xtclang/xvm serverless cloud applications and connected devices
+Inform7 http://inform7.com/ interactive fiction, human readable
+Plexil http://plexil.sourceforge.net/wiki/index.php/Main_Page real or simulated systems
+SuperCollider https://supercollider.github.io/ sound processing
+Wavescript https://www.cs.indiana.edu/~rrnewton/wavescope/WaveScope_+_WaveScript/
+WaveScope_Homepage.html Distributed Stream-Processing Language
+Esterel http://www.esterel.org/ control-dominated reactive systems
+LabVIEW http://www.ni.com/es-cl/shop/labview.html data availability, Visual programming
+Rapid https://github.com/kevinaangstadt/rapid programming pattern recognition processor
+Miniscript http://bitcoin.sipa.be/miniscript/ smart contracts
+Manool https://manool.org/ expressive power, implementation complexity ratio
+Kronos http://kronos.vesanorilo.com/ sound processing
+Fift https://test.ton.org/ TON Blockchain smart contracts
+Subtext http://www.subtext-lang.org/ Coherent reaction, visual programming
+Pure-Data https://github.com/b2renger/Introduction_Pure_Data digital signal processing
+Beluga https://www.cs.mcgill.ca/~complogic/beluga/index.html formal systems, metaprogramming
+Others sources :
+Timeline https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+Esoteric languages https://esolangs.org/wiki/Esolang:Categorization
+Markup Languages list http://web.mit.edu/mecheng/pml/standards.htm
+NoSQL Databases list http://nosql-database.org/
+Lambda the ultimate list http://lambda-the-ultimate.org/node/49
+Distrowatch https://distrowatch.com/
+Query Languages https://en.wikipedia.org/wiki/Query_language
+Quantum Programming https://qosf.org/project_list/
+Fledgling Languages List http://fll.presidentbeef.com/
+Other languages https://en.wikipedia.org/wiki/Category:Domain-specific_programming_languages

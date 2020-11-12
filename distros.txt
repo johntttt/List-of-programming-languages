@@ -1,0 +1,88 @@
+Linux Distributions that may be handy or fun to explore
+Ubuntu Studio, AV Linux - mUltimedia content creation
+https://ubuntustudio.org/
+http://www.bandshed.net/avlinux/
+Tuxtrans - for translators
+https://www.uibk.ac.at/tuxtrans/
+Bitkey - bitkoin oriented distro
+https://bitkey.io/
+Stress linux - for system builders, overclockers
+https://www.stresslinux.org/sl/
+Skywave linux - to accessing software defined radio servers
+https://skywavelinux.com/
+Live Raizo - network simulation
+https://sourceforge.net/projects/live-raizo/
+Batocera linux - retrogaming
+https://batocera-linux.xorhub.com/
+Trisquel - "ubuntu" over the kernel Libre-Linux
+https://trisquel.info/
+Tromjaro - to support a trade-free economy ...?
+https://www.tromjaro.com/
+Wifislax - Forensic, good support for network cards
+https://www.wifislax.com/
+Ubuntu Budgie - ubuntu with a simple and elegant GUI
+https://ubuntubudgie.org/
+OSGeoLive - for geologists
+https://live.osgeo.org/en/index.html
+Linux from scratch - if you want to know how linux works
+http://www.linuxfromscratch.org/
+Daphile - Headless music server OS
+https://www.daphile.com/
+Heads, Devuan - no systemd by default
+https://heads.dyne.org/about.html
+https://devuan.org/
+Ubuntu Mate - ubuntu with the Mate desktop
+https://ubuntu-mate.org/
+CAELinux, Poseidon - Engineering
+https://www.caelinux.com/CMS3/
+https://sites.google.com/site/poseidonlinux/
+LinuXXX - porn oriented linux distro OMG!!! ;)
+http://humorix.org/10534
+PinguyOS, Netrunner - distros ready to browse
+https://pinguyos.com/about-us/
+https://www.netrunner.com/
+UBports - Ubuntu for mobile
+https://ubuntu-touch.io/
+QubesOs - security oriented
+https://www.qubes-os.org/
+Turnkey - with LAMP and some other mainstream programming softwares
+https://www.turnkeylinux.org/
+Raspberry Digital Signage - for digital signage
+https://www.binaryemotions.com/digital-signage/raspberry-digital-signage/
+Kanotix - for recognizing modern hardware
+https://kanotix.com/index.html
+PearlOs, Peach OSI - distros with beautiful GUIs ( Mac-like )
+http://www.pearllinux.com/
+https://www.peachosi.com/
+Kali linux - penetration distro
+https://www.kali.org/
+Bedrock Linux, Yocto, T2 SDE, Funtoo - linux meta-distributions
+https://bedrocklinux.org/
+https://www.yoctoproject.org/
+https://t2sde.org/index.cgi/
+https://www.funtoo.org/Welcome
+Crux, PLD Linux - for advance users
+https://crux.nu/
+https://pld-linux.org/
+D.L. Linux - a meta-meta-distro OMG!!! ;)
+https://www.sudosatirical.com/articles/dl-linux-0-0-1-released/
+GuixSD, NixOS - secure package upgrading, system rollbacks
+https://guix.gnu.org/
+https://nixos.org/nixos/
+Parabuntu - Ubuntu for the parallela board
+https://github.com/parallella/parabuntu/releases
+Talking Arch - a distro for blind people
+https://talkingarch.tk/
+Gobolinux - system hierarchy redefined as a database
+https://www.gobolinux.org/
+Debian-hurd - Debian over Hurd instead of the Linux kernel
+https://www.debian.org/ports/hurd/
+Nitrux - distro build over the appimage format
+https://nxos.org/
+Linux Mangaka - for manga/anime fans
+https://animesoft.wordpress.com/linux/
+THIS LAST 2 MAY SAVE YOUR ASS SOME DAY ;)
+Rescatux, Parted Magic - Rescue distros
+https://www.supergrubdisk.org/rescatux/
+https://partedmagic.com/
+Main source : https://www.distrowatch.com/ ;)

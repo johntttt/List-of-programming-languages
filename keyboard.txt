@@ -1,0 +1,24 @@
+Ratpoison
+https://www.nongnu.org/ratpoison/
+Ratpoison is a simple Window Manager with no fat library dependencies, no fancy graphics, no
+window decorations, and no rodent dependence
+Carpalx
+http://mkweb.bcgsc.ca/carpalx/
+Save your carpals and reach typing guru status with your own keyboard layout, such as the fully
+optimized QGMLWB layout. Alternatively, use your power for evil and create a carpal-breaking
+TNWMLC layout to embarass office prima donnas and punish sluggish workers. And it's the only
+layout with its own line of Brazilian clothing.
+Next
+https://github.com/atlas-engineer/next
+Next is a keyboard-oriented, extensible web-browser designed for power users. The application has
+familiar key-bindings (Emacs, VI), is fully configurable and extensible in Lisp, and has powerful
+features for productive professionals.
+DAS-UI
+https://das-ui.firebaseapp.com/
+DAS-UI is a domain-agnostic keyboard-based visual programming language with JavaScript backend.
+Multiple Keyboards stuff
+https://superuser.com/questions/390458/multiple-keyboard-and-mouse-inputs
+https://forum.unity.com/threads/multi-input-handle-many-keyboards-mice-and-pads-all-atonce.
+396770/
+https://wiki.archlinux.org/index.php/Multi-pointer_X
+https://ice-wm.org/ (...with xinput library (maybe with Mate Desktop ;) )
